@@ -7,3 +7,4 @@ nofastforward
 conflict
 conflict-remote上で更新
 newfeature更新
+diff staging用（2nd
